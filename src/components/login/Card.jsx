@@ -67,7 +67,7 @@ class Card extends React.Component {
             type="text"
             data-testid="input-player-name"
             name="nome"
-            placeholder="Nome:"
+            placeholder="Nome"
             value={ nome }
             onChange={ this.handleChange }
           />
